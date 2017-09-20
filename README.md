@@ -44,9 +44,14 @@ machine learning is useful in the analysis of Graphs and data sets that can be r
   - Spectrum-based deep neural networks for fraud detection
    - [paper](https://arxiv.org/abs/1706.00891)
 
+  - CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters
+   - [paper](https://arxiv.org/pdf/1705.07664.pdf)
+
   - Modularity based Community Detection with Deep Learning
    - [paper](http://www.cs.wustl.edu/~zhang/publications/ijcai16-DL.pdf)
-     
+
+  - Geometric Deep Learning
+   - [website](http://geometricdeeplearning.com/)     
 
 ### Graph based methods in Machine Learning
 
