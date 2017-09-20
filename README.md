@@ -33,25 +33,25 @@ machine learning is useful in the analysis of Graphs and data sets that can be r
     - [github](https://github.com/joanbruna/GNN_community)
 
   - Link Prediction in Convolutional Neural Networks
-   - [paper](https://arxiv.org/pdf/1706.02263.pdf)
+    - [paper](https://arxiv.org/pdf/1706.02263.pdf)
 
   - Graph Convolutional Networks - Thomas Kipf
-   - [talk](https://github.com/tkipf/gcn)
-   - [github](https://github.com/tkipf/gcn)
-   - [website](http://tkipf.github.io/graph-convolutional-networks/)
-   - [paper](https://openreview.net/pdf?id=SJU4ayYgl)
+    - [talk](https://github.com/tkipf/gcn)
+    - [github](https://github.com/tkipf/gcn)
+    - [website](http://tkipf.github.io/graph-convolutional-networks/)
+    - [paper](https://openreview.net/pdf?id=SJU4ayYgl)
 
   - Spectrum-based deep neural networks for fraud detection
-   - [paper](https://arxiv.org/abs/1706.00891)
+    - [paper](https://arxiv.org/abs/1706.00891)
 
   - CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters
-   - [paper](https://arxiv.org/pdf/1705.07664.pdf)
+    - [paper](https://arxiv.org/pdf/1705.07664.pdf)
 
   - Modularity based Community Detection with Deep Learning
-   - [paper](http://www.cs.wustl.edu/~zhang/publications/ijcai16-DL.pdf)
+    - [paper](http://www.cs.wustl.edu/~zhang/publications/ijcai16-DL.pdf)
 
   - Geometric Deep Learning
-   - [website](http://geometricdeeplearning.com/)     
+    - [website](http://geometricdeeplearning.com/)     
 
 ### Graph based methods in Machine Learning
 
